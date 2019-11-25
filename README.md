@@ -5,10 +5,10 @@ This project is an implementation of the game Simon Say.
 
 To give a try open this [link](https://jadry92.github.io/basics-js-project/)
 
-This project is usefull if you are looking for an esay example of OOP (Object-oriented programming) in Java-script.
+This project is usefull if you are looking for an esay example of OOP (Object-oriented programming) in JavaScript.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NDM4NTk2NywtNzU4NzQ4NzQxLDExNT
+eyJoaXN0b3J5IjpbMTg2NDgyNDkwMCwtNzU4NzQ4NzQxLDExNT
 U4MzY4MTddfQ==
 -->
